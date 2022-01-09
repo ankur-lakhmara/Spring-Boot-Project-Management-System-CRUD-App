@@ -2,7 +2,7 @@
 
 
 
-This project was bootstrapped with [Create React App](https://getbootstrap.com/docs/5.1/getting-started/introduction/).
+This project was bootstrapped with [Spring Boot Web App](https://getbootstrap.com/docs/5.1/getting-started/introduction/).
 
 
 
