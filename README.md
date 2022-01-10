@@ -12,9 +12,10 @@ This project was bootstrapped with [Spring Boot Web App](https://getbootstrap.co
 1. Clone the project
 2. Open in your IDE
 3. Install/Update the required packages 
-4. Run the app
-5. Now App will open in your browser automatically. if not then enter `http://localhost:8080/` in your browser.
-6. Now you will saw app like this 👇👇👇👇
+4. Create a databased named : `product_db`
+5. Run the app
+6. Now App will open in your browser automatically. if not then enter `http://localhost:8080/` in your browser.
+7. Now you will saw app like this 👇👇👇👇
 
 ### 
 To learn React and Java please mail me `developerport.co@gmail.com`
